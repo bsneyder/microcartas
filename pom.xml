@@ -68,7 +68,7 @@
    <repository>
      <id>MCIC-Java21</id>
      <name>pruebacartas</name>
-     <url>https://maven.pkg.github.com/bquintero56/pruebacartas</url>
+     <url>https://maven.pkg.github.com/bsneyder/microcartas</url>
    </repository>
 </distributionManagement>
 </project>
