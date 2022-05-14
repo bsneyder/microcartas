@@ -20,8 +20,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <releases><enabled>true</enabled></releases>
-        <snapshots><enabled>true</enabled></snapshots>
     </properties>
 
     <dependencies>
@@ -71,6 +69,8 @@
      <id>MCIC-Java21</id>
      <name>MCIC-Java21</name>
      <url>https://maven.pkg.github.com/bsneyder/microcartas</url>
+     <releases><enabled>true</enabled></releases>
+     <snapshots><enabled>true</enabled></snapshots>
    </repository>
 </distributionManagement>
 </project>
