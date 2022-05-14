@@ -29,7 +29,7 @@
     <servers>
         <server>
             <id>MCIC-Java21</id>
-	    <username>${{ secrets.USERNAMEGITHUB }}</username>
+	    <username>${{ secrets.USERNAME }}</username>
 	    <password>${{ secrets.GITHUBTOKEN }}</password>
         </server>
     </servers>
